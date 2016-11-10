@@ -1,7 +1,8 @@
 //
 //  AppSettings.m
 //
-//  Created by Austin Bowen on 6/6/15.
+//  MIT Licensed.
+//  Copyright (c) 2016 Austin Bowen.
 //
 
 #import "AppSettings.h"
