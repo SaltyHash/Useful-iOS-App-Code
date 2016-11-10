@@ -1,9 +1,8 @@
 //
 //  AppSettings.h
-//  BetterWorkOrder
 //
-//  Created by Developer on 6/6/15.
-//  Copyright (c) 2015 Advyon. All rights reserved.
+//  MIT Licensed.
+//  Copyright (c) 2015 Austin Bowen.
 //
 
 #import <Foundation/Foundation.h>
