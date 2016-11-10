@@ -2,7 +2,7 @@
 //  AppSettings.h
 //
 //  MIT Licensed.
-//  Copyright (c) 2015 Austin Bowen.
+//  Copyright (c) 2016 Austin Bowen.
 //
 
 #import <Foundation/Foundation.h>
